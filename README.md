@@ -1,4 +1,3 @@
-
 # Meatless
 
 World's first vegetarian food delivery
@@ -6,26 +5,18 @@ World's first vegetarian food delivery
 ![](https://github.com/devpass-tech/meatless-frontend/blob/main/src/assets/meatless-screenshot.png)
 ## Dependencies
 
-To do the local test you need our [meatless-api](https://github.com/devpass-tech/meatless-api) on your machine.
+to return the data of the restaurants access the url below:
 
-- install the dependencies:
 ```bash
-  cd meatless-api
-  yarn install
-```
-- run the node server with:
-```bash
-  yarn start
+  https://raw.githubusercontent.com/devpass-tech/meatless-api/main/restaurant_list.json
 ```
 - go to meatless-frontend ->
-
-
 
 ## Running locally
 
 Clone the project
 ```bash
-  git clone https://github.com/devpass-tech/meatless-frontend
+  git clone https://github.com/devpass-tech/project-meatless-react-template
 ```
 
 Enter the project directory
