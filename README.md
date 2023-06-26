@@ -3,7 +3,7 @@
 
 World's first vegetarian food delivery
 
-![](https://github.com/[devpass-tech]/[meatless-frontend]/blob/[main]/meatless-screenshot.png?raw=true )
+![](https://github.com/devpass-tech/meatless-frontend/blob/main/src/assets/meatless-screenshot.png)
 ## Dependencies
 
 To do the local test you need our [meatless-api](https://github.com/devpass-tech/meatless-api) on your machine.
